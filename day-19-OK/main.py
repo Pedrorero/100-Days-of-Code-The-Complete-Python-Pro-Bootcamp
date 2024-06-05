@@ -1,3 +1,5 @@
+# a race between 6 different color turtles that move forwards randomdly. User needs to select one color as the winner before the race starts
+
 from turtle import Turtle, Screen
 import random
 
